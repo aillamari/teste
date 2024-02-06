@@ -1,6 +1,6 @@
 .cabecalho{ 
     display: flex;
-    background-color: rgb(26, 66, 140);
+    background-color: rgb(255, 255, 255);
     color: aliceblue;
     justify-content: space-around;
 }
