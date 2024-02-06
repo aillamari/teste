@@ -1,4 +1,13 @@
 .cabecalho{ 
     display: flex;
     background-color: rgb(26, 66, 140);
+    color: aliceblue;
+}
+
+.cabecalho-listaa{
+     display: flex;
+}
+
+.cabecalho-logo{
+    display: flex;
 }
